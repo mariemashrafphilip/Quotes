@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'poestin';
+    src: url(../webfonts/Poetsen_One/PoetsenOne-Regular.ttf);
+}
+
+body{
+    background-image: url('../images/stars-galaxy-1920x1080-10307.jpg');
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    font-family:'poestin' ;
+    
+}
+
+h1{
+    font-size: 90px;
+    color: rgb(244, 244, 244);
+}
+p{
+    letter-spacing: 1px;
+    color: rgb(253, 196, 244);
+}
+.btn{
+    background-color:rgb(255, 255, 255);
+    color: rgb(255, 48, 48);
+    font-size: 30px;
+
+}
+.btn:hover{
+    color: rgb(255, 48, 48);
+}
